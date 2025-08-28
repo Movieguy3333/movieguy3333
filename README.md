@@ -1,5 +1,4 @@
-# 💫 About Me:
-I'm a software engineering student passionate about building full-stack web applications.  <br>Currently working with **React, Node.js, Express, PostgreSQL, and MongoDB**, I enjoy creating projects that are both functional and user-friendly.  <br>I’m especially interested in data-driven apps, financial insights, and productivity tools.  <br>
+#  Muaad Alomari - Full Stack Web developer
 
 
 ## 🌐 Socials:

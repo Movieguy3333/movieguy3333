@@ -1,0 +1,42 @@
+# Save this file at: .github/workflows/snake.yml
+# (inside the Movieguy3333/Movieguy3333 repo)
+#
+# This version commits the SVGs straight to main/images/ — no separate
+# "output" branch, which is where the previous setup usually breaks.
+ 
+name: Generate Contribution Snake
+ 
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # twice a day
+  workflow_dispatch:          # manual run button in the Actions tab
+  push:
+    branches:
+      - main
+ 
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+ 
+      - name: Make images folder
+        run: mkdir -p images
+ 
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            images/github-snake.svg
+            images/github-snake-dark.svg?palette=github-dark
+ 
+      - name: Commit the SVGs
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: regenerate contribution snake"
+          file_pattern: images/*.svg
+ 

@@ -1,95 +1,17 @@
+<!-- ═══════════════════════════════════ BANNER ═══════════════════════════════════ --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,40:302B63,100:24243E&height=190&section=header&text=Muaad%20Alomari&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=18" alt="banner" /> <!-- ═══════════════════════════════════ TYPING ═══════════════════════════════════ --> <div align="center"> <a href="https://www.linkedin.com/in/muaadalomari/"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00E5FF&center=true&vCenter=true&width=560&lines=Full+Stack+Web+Developer;React+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;Turning+coffee+into+clean+code+%E2%98%95" alt="Typing SVG" /> </a> </div> <div align="center"> <a href="mailto:Muaad.Alomari@outlook.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="email" /> </a> <a href="https://www.linkedin.com/in/muaadalomari/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="linkedin" /> </a> <a href="https://discordapp.com/users/240104485752406016"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30" alt="discord" /> </a> <img src="https://komarev.com/ghpvc/?username=Movieguy3333&label=Profile%20Views&color=00E5FF&style=for-the-badge" height="30" alt="profile views" /> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:7B2FF7,100:F72585&height=3&section=header" width="100%" alt="divider" /> <!-- ═══════════════════════════════════ TECH STACK ═══════════════════════════════════ --> <h2 align="center">⚡ Tech Stack</h2> <div align="center">
 
+Languages
 
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css&theme=dark" alt="languages" />
 
+Frontend
 
-<h2 align="left">Muaad Alomari - Full Stack Web Developer</h2>
+<img src="https://skillicons.dev/icons?i=react,redux,nextjs,bootstrap,figma&theme=dark" alt="frontend" />
 
-<div align="center">
+Backend & Data
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Movieguy3333&theme=dark&hide_border=false" height="130" alt="languages graph"  />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,sequelize&theme=dark" alt="backend" />
 
-</div>
+Tools & Cloud
 
-<div align="center">
-
-
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Movieguy3333&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="130" alt="languages graph"  />
-</div>
-
-
-<!--![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
--->
-<img align="right" height="150" width="150" src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif"  />
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="30" alt="sequelize logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
-  <img width="12" />
-
-</div>
-
-
-
-
-<div align="left">
-   <a href="mailto:Muaad.Alomari@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/muaadalomari/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://discordapp.com/users/240104485752406016" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-
-</div>
-<!--
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muaadalomari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Muaad.Alomari@outlook.com) 
--->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-![](https://github-readme-stats.vercel.app/api?username=Movieguy3333&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Movieguy3333&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Movieguy3333&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,wordpress&theme=dark" alt="tools" /> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:7B2FF7,100:F72585&height=3&section=header" width="100%" alt="divider" /> <!-- ═══════════════════════════════════ STATS ═══════════════════════════════════ --> <h2 align="center">📊 GitHub Stats</h2> <div align="center"> <img src="https://streak-stats.demolab.com?user=Movieguy3333&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=F72585&currStreakLabel=00E5FF" alt="streak stats" /> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:7B2FF7,100:F72585&height=3&section=header" width="100%" alt="divider" /> <!-- ═══════════════════════════════════ SNAKE ═══════════════════════════════════ --> <h2 align="center">🐍 Watch My Contributions Get Eaten</h2> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Movieguy3333/Movieguy3333/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Movieguy3333/Movieguy3333/output/github-snake.svg" /> <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Movieguy3333/Movieguy3333/output/github-snake.svg" /> </picture> </div> <!-- ═══════════════════════════════════ FOOTER ═══════════════════════════════════ --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,60:302B63,100:0F0C29&height=140&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=24&fontColor=FFFFFF&fontAlignY=72" alt="footer" /> <!-- ═══════════════════════════ OPTIONAL EXTRAS ═══════════════════════════ Uncomment any block below to add it to your profile. ── Contribution activity graph ── <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Movieguy3333&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00E5FF&line=F72585&point=FFFFFF&area=true" alt="activity graph" /> </div> ── Trophy case ── <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Movieguy3333&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" /> </div> ── Random dev quote ── <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" /> </div> -->
